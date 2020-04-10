@@ -4,7 +4,7 @@
 
 
 Open Source and Free
-![](logo.png| width=100)
+<img src="https://i.imgur.com/moW9i7A.png" alt="logo" width="256" height="240">
 
 ## Installation
 
