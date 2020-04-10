@@ -4,7 +4,7 @@
 
 
 Open Source and Free
-![](logo.png=250x250)
+![](logo.png| width=100)
 
 ## Installation
 
