@@ -4,7 +4,7 @@
 
 
 Open Source and Free
-![](header.png)
+![](logo.png)
 
 ## Installation
 
