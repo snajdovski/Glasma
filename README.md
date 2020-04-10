@@ -1,9 +1,10 @@
 # Glasma
-> Profesional Camera for Android.
+> Open Source and Free Profesional Camera for Android.
 
+## STATE
 
+The app is in WORK IN PROGRESS state in the following next few weeks I will start developing it
 
-Open Source and Free
 <img src="https://i.imgur.com/moW9i7A.png" alt="logo" width="256" height="240">
 
 ## Installation
